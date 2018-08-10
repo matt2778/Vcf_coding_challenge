@@ -1,0 +1,14 @@
+1,stop_gained
+2,missense_variant
+3,splice_donor_variant
+4,splice_region_variant
+5,NMD_transcript_variant
+6,synonymous_variant
+7,stop_retained_variant
+8,mature_miRNA_variant
+9,non_coding_transcript_exon_variant
+10,non_coding_transcript_variant
+11,stop_lost
+12,intron_variant
+13,5_prime_UTR_variant
+14,3_prime_UTR_variant

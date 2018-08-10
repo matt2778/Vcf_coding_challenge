@@ -1,0 +1,9 @@
+##INFO=<ID=VT,Number=1,Type=String,Description="variant type">
+##INFO=<ID=VC,Number=1,Type=String,Description="ExAC variant effect most severe consequence">
+##INFO=<ID=DPN,Number=1,Type=Integer,Description="read depth">
+##INFO=<ID=VS,Number=1,Type=String,Description="variant read support: first reference then alternate">
+##INFO=<ID=PS,Number=1,Type=Float,Description="percentage read variant support">
+##INFO=<ID=EAF,Number=1,Type=Float,Description="ExAC allele frequency">
+##INFO=<ID=ID,Number=1,Type=String,Description="gene ID">
+##INFO=<ID=GS,Number=1,Type=String,Description="gene Symbol">
+
